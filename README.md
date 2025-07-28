@@ -1,7 +1,6 @@
 # PCJASTP
 
  ```bash
-   cd /path/to/your/dir
 import random;
 import os;
 
