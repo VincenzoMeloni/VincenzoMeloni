@@ -1,4 +1,4 @@
-# PCJASTP
+# 🐧
 
  ```bash
 import random;
